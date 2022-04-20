@@ -52,7 +52,6 @@
 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaygelani&show_icons=true&locale=en" alt="akshaygelani" />
+<p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=akshaygelani&show_icons=true&theme=gotham" alt="akshaygelani" /><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaygelani&show_icons=true&locale=en&layout=compact" alt="akshaygelani" />
 </p>
-
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaygelani&show_icons=true&locale=en&layout=compact" alt="akshaygelani" /></p> -->
