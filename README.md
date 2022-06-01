@@ -1,11 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akshay Gelani</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
-- 🔭 Skilled in React js, Ruby on Rails, Flutter, Android App Development
+- 🔭 Skilled in Ruby on Rails, React js, Flutter, Android App Development
 
 - 🌱 Exploring Power of **Javascript**
 
-- 💬 Ask me about **React, Android, Flutter, Ruby on Rails**
+- 💬 Ask me about **Ruby on Rails, React, Android, Flutter**
 
 - 📫 Reach me @**akshaygelani786@gmail.com**
 
