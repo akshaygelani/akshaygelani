@@ -6,8 +6,6 @@
 
 ➡ My experience includes working on frontend and backend tech stacks, such as Ruby on Rails, Node js and JavaScript. I'm open to any tech stack and SDE 1 Roles
 
-📧 Reach me @**akshaygelani786@gmail.com**
-
 👩‍💻 <b>Skills :</b> Data Structures & Algorithms, Problem Solving, Java, JavaScript, Node js, Ruby on Rails, Ruby, React Js, Cypress and Mobile App Development.
 
 <h3 align="left">Connect with me:</h3>
