@@ -2,7 +2,7 @@
 
 ➡ I'm a 2021 B.Tech (I.T) Graduate From Charotar University of Science and Technology
 
-➡ At present, working as an Associate Software Engineer at Advanced and have 1+ year of experience
+➡ At present, working as an Associate Software Engineer at Advanced and have 3.5+ year of experience
 
 ➡ My experience includes working on frontend and backend tech stacks, such as Ruby on Rails, Node js and JavaScript. I'm open to any tech stack and SDE 1 Roles
 
