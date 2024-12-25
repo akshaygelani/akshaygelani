@@ -2,7 +2,7 @@
 
 <h3 align="left">Portfolio:</h3>
 <p align="left">
-<a href="https://akshaygelani.me" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen" alt="akshaygelani" height="30" target='_blank'/></a>
+<a href="https://akshaygelani.me" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen" alt="akshaygelani" height="25" target='_blank'/></a>
 </p>
 
 ➡ 👋 Hi there! I'm a **B.Tech graduate** with **3.5+ years of experience** as a **Software Engineer** at **OneAdvanced**.
@@ -33,7 +33,7 @@
 
 ➡ ✨ I'm passionate about innovation and enjoy creating **Proofs of Concept (PoCs)** and **Minimum Viable Products (MVPs)** to bring new ideas to life.
 
-➡ 📧 Let's connect—I'm open to exciting opportunities and challenges!
+➡ 📧 Let's connect - I'm open to exciting opportunities and challenges!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
